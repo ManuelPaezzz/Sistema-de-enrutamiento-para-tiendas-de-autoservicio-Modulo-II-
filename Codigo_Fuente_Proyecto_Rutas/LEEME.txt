@@ -1,0 +1,18 @@
+PROYECTO DE OPTIMIZACION DE RUTAS - RECOCIDO SIMULADO
+
+Extraiga todo en una sola carpeta.
+
+Orden de ejecucion:
+1. python etapa1_validacion_datos.py
+2. python rutas_iniciales.py
+3. python recocido_simulado.py
+4. python evaluacion_rendimiento.py
+5. python -m pip install matplotlib
+6. python visualizacion_resultados.py
+7. python mapa_rutas.py
+
+Para abrir el mapa:
+python -m http.server 8000
+Abrir: http://localhost:8000/mapa_rutas_comparacion.html
+
+Rutas representan un escenario simulado. Las conexiones geoespaciales no siguen calles reales.

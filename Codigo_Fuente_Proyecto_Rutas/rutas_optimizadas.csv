@@ -1,0 +1,11 @@
+﻿Centro,Tiendas,Ruta optimizada,Distancia inicial (km),Distancia optimizada (km),Costo inicial (u.c.),Costo optimizado (u.c.),Mejora (%),Tiempo estimado (h),Iteraciones,Movimientos aceptados,Aceptaciones de mayor costo
+Centro 1,5,Centro 1 -> Tienda 38 -> Tienda 34 -> Tienda 49 -> Tienda 30 -> Tienda 45 -> Centro 1,13.701,13.56,2.055,2.034,1.03,1.79,1899,613,238
+Centro 2,6,Centro 2 -> Tienda 1 -> Tienda 6 -> Tienda 74 -> Tienda 81 -> Tienda 47 -> Tienda 69 -> Centro 2,18.271,16.306,2.741,2.446,10.75,2.15,1899,602,255
+Centro 3,4,Centro 3 -> Tienda 17 -> Tienda 88 -> Tienda 79 -> Tienda 26 -> Centro 3,14.484,12.151,2.173,1.823,16.11,1.49,1899,775,256
+Centro 4,21,Centro 4 -> Tienda 35 -> Tienda 84 -> Tienda 52 -> Tienda 21 -> Tienda 46 -> Tienda 63 -> Tienda 39 -> Tienda 44 -> Tienda 80 -> Tienda 7 -> Tienda 43 -> Tienda 75 -> Tienda 51 -> Tienda 78 -> Tienda 3 -> Tienda 83 -> Tienda 82 -> Tienda 57 -> Tienda 59 -> Tienda 32 -> Tienda 37 -> Centro 4,38.006,34.151,5.701,5.123,10.14,6.62,1899,290,136
+Centro 5,11,Centro 5 -> Tienda 71 -> Tienda 86 -> Tienda 41 -> Tienda 53 -> Tienda 13 -> Tienda 50 -> Tienda 55 -> Tienda 70 -> Tienda 65 -> Tienda 11 -> Tienda 66 -> Centro 5,26.094,23.367,3.914,3.505,10.45,3.68,1899,526,247
+Centro 6,8,Centro 6 -> Tienda 16 -> Tienda 10 -> Tienda 33 -> Tienda 9 -> Tienda 76 -> Tienda 62 -> Tienda 15 -> Tienda 87 -> Centro 6,16.207,15.219,2.431,2.283,6.1,2.61,1899,653,308
+Centro 7,17,Centro 7 -> Tienda 73 -> Tienda 89 -> Tienda 27 -> Tienda 2 -> Tienda 90 -> Tienda 5 -> Tienda 67 -> Tienda 48 -> Tienda 31 -> Tienda 25 -> Tienda 22 -> Tienda 56 -> Tienda 85 -> Tienda 77 -> Tienda 54 -> Tienda 14 -> Tienda 60 -> Centro 7,37.98,31.934,5.697,4.79,15.92,5.53,1899,410,193
+Centro 8,2,Centro 8 -> Tienda 24 -> Tienda 64 -> Centro 8,11.295,11.295,1.694,1.694,0.0,0.95,1899,0,0
+Centro 9,12,Centro 9 -> Tienda 58 -> Tienda 72 -> Tienda 29 -> Tienda 19 -> Tienda 36 -> Tienda 40 -> Tienda 12 -> Tienda 20 -> Tienda 18 -> Tienda 42 -> Tienda 68 -> Tienda 8 -> Centro 9,34.471,30.885,5.171,4.633,10.4,4.24,1899,459,206
+Centro 10,4,Centro 10 -> Tienda 61 -> Tienda 28 -> Tienda 23 -> Tienda 4 -> Centro 10,14.736,14.736,2.21,2.21,0.0,1.59,1899,698,220

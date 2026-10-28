@@ -1,0 +1,17 @@
+RESUMEN DE RENDIMIENTO - RECOCIDO SIMULADO
+Pruebas realizadas: 30
+Semillas utilizadas: 42 a 71
+Distancia inicial: 225.24 km
+Costo inicial: 33.79 u.c.
+Distancia final promedio: 203.98 km
+Mejor distancia final: 202.86 km
+Peor distancia final: 207.67 km
+Mejora promedio: 9.44%
+Mejora minima: 7.80%
+Mejora maxima: 9.94%
+Desviacion estandar de la mejora: 0.49 puntos porcentuales
+Tiempo promedio de optimizacion: 0.053 s
+Mejor ejecucion: prueba 5, semilla 46
+Validacion: en las 30 pruebas se atendieron 90 tiendas sin repeticiones y
+todas las rutas empezaron/terminaron en su centro y respetaron las 8 h estimadas.
+Nota: distancias de la matriz; el tiempo de entrega se estima con supuestos.

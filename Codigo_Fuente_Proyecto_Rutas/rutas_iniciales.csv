@@ -1,0 +1,11 @@
+﻿Centro,Numero de tiendas,Recorrido,Distancia (km),Costo (u.c.),Tiempo estimado (h),Dentro de 8 horas
+Centro 1,5,Centro 1 -> Tienda 38 -> Tienda 45 -> Tienda 30 -> Tienda 49 -> Tienda 34 -> Centro 1,13.701,2.055,1.8,Si
+Centro 2,6,Centro 2 -> Tienda 1 -> Tienda 69 -> Tienda 74 -> Tienda 81 -> Tienda 47 -> Tienda 6 -> Centro 2,18.271,2.741,2.23,Si
+Centro 3,4,Centro 3 -> Tienda 17 -> Tienda 88 -> Tienda 26 -> Tienda 79 -> Centro 3,14.484,2.173,1.58,Si
+Centro 4,21,Centro 4 -> Tienda 37 -> Tienda 82 -> Tienda 57 -> Tienda 59 -> Tienda 32 -> Tienda 83 -> Tienda 3 -> Tienda 78 -> Tienda 51 -> Tienda 43 -> Tienda 75 -> Tienda 7 -> Tienda 80 -> Tienda 44 -> Tienda 63 -> Tienda 39 -> Tienda 84 -> Tienda 35 -> Tienda 52 -> Tienda 21 -> Tienda 46 -> Centro 4,38.006,5.701,6.77,Si
+Centro 5,11,Centro 5 -> Tienda 66 -> Tienda 11 -> Tienda 41 -> Tienda 65 -> Tienda 70 -> Tienda 53 -> Tienda 13 -> Tienda 50 -> Tienda 55 -> Tienda 86 -> Tienda 71 -> Centro 5,26.094,3.914,3.79,Si
+Centro 6,8,Centro 6 -> Tienda 87 -> Tienda 16 -> Tienda 15 -> Tienda 9 -> Tienda 62 -> Tienda 76 -> Tienda 33 -> Tienda 10 -> Centro 6,16.207,2.431,2.65,Si
+Centro 7,17,Centro 7 -> Tienda 60 -> Tienda 73 -> Tienda 89 -> Tienda 27 -> Tienda 2 -> Tienda 67 -> Tienda 48 -> Tienda 31 -> Tienda 5 -> Tienda 90 -> Tienda 25 -> Tienda 56 -> Tienda 85 -> Tienda 22 -> Tienda 77 -> Tienda 14 -> Tienda 54 -> Centro 7,37.98,5.697,5.77,Si
+Centro 8,2,Centro 8 -> Tienda 24 -> Tienda 64 -> Centro 8,11.295,1.694,0.95,Si
+Centro 9,12,Centro 9 -> Tienda 8 -> Tienda 68 -> Tienda 42 -> Tienda 40 -> Tienda 36 -> Tienda 19 -> Tienda 12 -> Tienda 20 -> Tienda 18 -> Tienda 29 -> Tienda 72 -> Tienda 58 -> Centro 9,34.471,5.171,4.38,Si
+Centro 10,4,Centro 10 -> Tienda 61 -> Tienda 28 -> Tienda 23 -> Tienda 4 -> Centro 10,14.736,2.21,1.59,Si
